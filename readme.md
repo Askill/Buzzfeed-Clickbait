@@ -1,7 +1,7 @@
-Buzzfeed Clickbait
+# Buzzfeed Clickbait
 
 ## to run 
 
-        python main.py
+        python scrape.py
         go run .
         dot -Tsvg -O my-graph.gv
