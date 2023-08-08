@@ -1,732 +1,416 @@
 strict digraph {
 
 
-	"Next" [ label="Next",  weight=0 ];
+	"for" [ label="for",  weight=0 ];
 
-	"Theyve" [ label="Theyve",  weight=0 ];
+	"for" -> "is" [  weight=0 ];
 
-	"Lesbian" [ label="Lesbian",  weight=0 ];
+	"for" -> "for" [  weight=0 ];
 
-	"They" [ label="They",  weight=0 ];
+	"for" -> "on" [  weight=0 ];
 
-	"They" -> "Respond" [  weight=0 ];
+	"for" -> "the" [  weight=0 ];
 
-	"They" -> "Destroyed" [  weight=0 ];
+	"for" -> "are" [  weight=0 ];
 
-	"They" -> "Hate" [  weight=0 ];
+	"for" -> "your" [  weight=0 ];
 
-	"They" -> "Die" [  weight=0 ];
+	"for" -> "this" [  weight=0 ];
 
-	"They" -> "Unveiled" [  weight=0 ];
+	"for" -> "and" [  weight=0 ];
 
-	"They" -> "Prefaced" [  weight=0 ];
+	"for" -> "in" [  weight=0 ];
 
-	"They" -> "Misspell" [  weight=0 ];
+	"for" -> "a" [  weight=0 ];
 
-	"They" -> "Wanted" [  weight=0 ];
+	"for" -> "to" [  weight=0 ];
 
-	"They" -> "Developed" [  weight=0 ];
+	"for" -> "that" [  weight=0 ];
 
-	"Week" [ label="Week",  weight=0 ];
+	"for" -> "you" [  weight=0 ];
 
-	"Cat" [ label="Cat",  weight=0 ];
+	"are" [ label="are",  weight=0 ];
 
-	"Grayson" [ label="Grayson",  weight=0 ];
+	"are" -> "a" [  weight=0 ];
 
-	"Emoji" [ label="Emoji",  weight=0 ];
+	"are" -> "is" [  weight=0 ];
 
-	"Fast" [ label="Fast",  weight=0 ];
+	"are" -> "and" [  weight=0 ];
 
-	"William" [ label="William",  weight=0 ];
+	"are" -> "the" [  weight=0 ];
 
-	"Tudyks" [ label="Tudyks",  weight=0 ];
+	"are" -> "for" [  weight=0 ];
 
-	"Tudyks" -> "New" [  weight=0 ];
+	"are" -> "this" [  weight=0 ];
 
-	"Food" [ label="Food",  weight=0 ];
+	"are" -> "on" [  weight=0 ];
 
-	"Friends" [ label="Friends",  weight=0 ];
+	"are" -> "are" [  weight=0 ];
 
-	"Sexually" [ label="Sexually",  weight=0 ];
+	"are" -> "of" [  weight=0 ];
 
-	"Turns" [ label="Turns",  weight=0 ];
+	"are" -> "that" [  weight=0 ];
 
-	"Have" [ label="Have",  weight=0 ];
+	"are" -> "in" [  weight=0 ];
 
-	"Have" -> "Walked" [  weight=0 ];
+	"are" -> "your" [  weight=0 ];
 
-	"Have" -> "Thrown" [  weight=0 ];
+	"are" -> "you" [  weight=0 ];
 
-	"Have" -> "WhatsApp" [  weight=0 ];
+	"are" -> "to" [  weight=0 ];
 
-	"Have" -> "Conflicting" [  weight=0 ];
+	"of" [ label="of",  weight=0 ];
 
-	"Have" -> "Awful" [  weight=0 ];
+	"of" -> "a" [  weight=0 ];
 
-	"Have" -> "Debuted" [  weight=0 ];
+	"of" -> "of" [  weight=0 ];
 
-	"Have" -> "Ended" [  weight=0 ];
+	"of" -> "you" [  weight=0 ];
 
-	"Have" -> "Worked" [  weight=0 ];
+	"of" -> "and" [  weight=0 ];
 
-	"Have" -> "Increased" [  weight=0 ];
+	"of" -> "in" [  weight=0 ];
 
-	"Among" [ label="Among",  weight=0 ];
+	"of" -> "are" [  weight=0 ];
 
-	"Princess" [ label="Princess",  weight=0 ];
+	"of" -> "is" [  weight=0 ];
 
-	"Banning" [ label="Banning",  weight=0 ];
+	"of" -> "for" [  weight=0 ];
 
-	"Attacks" [ label="Attacks",  weight=0 ];
+	"of" -> "your" [  weight=0 ];
 
-	"Size-Inclusive" [ label="Size-Inclusive",  weight=0 ];
+	"of" -> "the" [  weight=0 ];
 
-	"Destroyed" [ label="Destroyed",  weight=0 ];
+	"of" -> "to" [  weight=0 ];
 
-	"Obama" [ label="Obama",  weight=0 ];
+	"of" -> "de" [  weight=0 ];
 
-	"Confirms" [ label="Confirms",  weight=0 ];
+	"of" -> "this" [  weight=0 ];
 
-	"Featuring" [ label="Featuring",  weight=0 ];
+	"of" -> "that" [  weight=0 ];
 
-	"Walked" [ label="Walked",  weight=0 ];
+	"of" -> "on" [  weight=0 ];
 
-	"SAT" [ label="SAT",  weight=0 ];
+	"de" [ label="de",  weight=0 ];
 
-	"Somehow" [ label="Somehow",  weight=0 ];
+	"de" -> "the" [  weight=0 ];
 
-	"Insider" [ label="Insider",  weight=0 ];
+	"de" -> "on" [  weight=0 ];
 
-	"Unveiled" [ label="Unveiled",  weight=0 ];
+	"de" -> "you" [  weight=0 ];
 
-	"In" [ label="In",  weight=0 ];
+	"de" -> "to" [  weight=0 ];
 
-	"Attack" [ label="Attack",  weight=0 ];
+	"de" -> "that" [  weight=0 ];
 
-	"Curb" [ label="Curb",  weight=0 ];
+	"de" -> "a" [  weight=0 ];
 
-	"Increased" [ label="Increased",  weight=0 ];
+	"de" -> "and" [  weight=0 ];
 
-	"Crowds" [ label="Crowds",  weight=0 ];
+	"de" -> "this" [  weight=0 ];
 
-	"Bits" [ label="Bits",  weight=0 ];
+	"de" -> "de" [  weight=0 ];
 
-	"Cumming" [ label="Cumming",  weight=0 ];
+	"this" [ label="this",  weight=0 ];
 
-	"Something" [ label="Something",  weight=0 ];
+	"this" -> "for" [  weight=0 ];
 
-	"Bollywood" [ label="Bollywood",  weight=0 ];
+	"this" -> "and" [  weight=0 ];
 
-	"Suge" [ label="Suge",  weight=0 ];
+	"this" -> "a" [  weight=0 ];
 
-	"Penn" [ label="Penn",  weight=0 ];
+	"this" -> "are" [  weight=0 ];
 
-	"At" [ label="At",  weight=0 ];
+	"this" -> "on" [  weight=0 ];
 
-	"At" -> "Stopping" [  weight=0 ];
+	"this" -> "your" [  weight=0 ];
 
-	"At" -> "Spilt" [  weight=0 ];
+	"this" -> "to" [  weight=0 ];
 
-	"At" -> "Penn" [  weight=0 ];
+	"this" -> "is" [  weight=0 ];
 
-	"At" -> "Me" [  weight=0 ];
+	"this" -> "of" [  weight=0 ];
 
-	"At" -> "Banning" [  weight=0 ];
+	"this" -> "the" [  weight=0 ];
 
-	"At" -> "Princess" [  weight=0 ];
+	"this" -> "this" [  weight=0 ];
 
-	"At" -> "More" [  weight=0 ];
+	"this" -> "in" [  weight=0 ];
 
-	"At" -> "Bermuda" [  weight=0 ];
+	"this" -> "that" [  weight=0 ];
 
-	"At" -> "William" [  weight=0 ];
+	"this" -> "you" [  weight=0 ];
 
-	"From" [ label="From",  weight=0 ];
+	"a" [ label="a",  weight=0 ];
 
-	"Bagels" [ label="Bagels",  weight=0 ];
+	"a" -> "for" [  weight=0 ];
 
-	"Instead" [ label="Instead",  weight=0 ];
+	"a" -> "de" [  weight=0 ];
 
-	"Left" [ label="Left",  weight=0 ];
+	"a" -> "and" [  weight=0 ];
 
-	"2021" [ label="2021",  weight=0 ];
+	"a" -> "is" [  weight=0 ];
 
-	"Driving" [ label="Driving",  weight=0 ];
+	"a" -> "the" [  weight=0 ];
 
-	"Collected" [ label="Collected",  weight=0 ];
+	"a" -> "on" [  weight=0 ];
 
-	"Arrest" [ label="Arrest",  weight=0 ];
+	"a" -> "this" [  weight=0 ];
 
-	"2024" [ label="2024",  weight=0 ];
+	"a" -> "that" [  weight=0 ];
 
-	"Song" [ label="Song",  weight=0 ];
+	"a" -> "in" [  weight=0 ];
 
-	"10" [ label="10",  weight=0 ];
+	"a" -> "to" [  weight=0 ];
 
-	"10" -> "Relationship" [  weight=0 ];
+	"a" -> "a" [  weight=0 ];
 
-	"10" -> "Serial" [  weight=0 ];
+	"is" [ label="is",  weight=0 ];
 
-	"10" -> "%" [  weight=0 ];
+	"is" -> "that" [  weight=0 ];
 
-	"10" -> "Badass" [  weight=0 ];
+	"is" -> "this" [  weight=0 ];
 
-	"10" -> "Taylor" [  weight=0 ];
+	"is" -> "and" [  weight=0 ];
 
-	"10" -> "K-Dramas" [  weight=0 ];
+	"is" -> "the" [  weight=0 ];
 
-	"10" -> "Insider" [  weight=0 ];
+	"is" -> "to" [  weight=0 ];
 
-	"10" -> "Albums" [  weight=0 ];
+	"is" -> "you" [  weight=0 ];
 
-	"10" -> "en" [  weight=0 ];
+	"is" -> "a" [  weight=0 ];
 
-	"Die" [ label="Die",  weight=0 ];
+	"is" -> "for" [  weight=0 ];
 
-	"Gas" [ label="Gas",  weight=0 ];
+	"is" -> "your" [  weight=0 ];
 
-	"And" [ label="And",  weight=0 ];
+	"is" -> "of" [  weight=0 ];
 
-	"Needs" [ label="Needs",  weight=0 ];
+	"is" -> "on" [  weight=0 ];
 
-	"Asylum" [ label="Asylum",  weight=0 ];
+	"is" -> "in" [  weight=0 ];
 
-	"Bride" [ label="Bride",  weight=0 ];
+	"your" [ label="your",  weight=0 ];
 
-	"Me" [ label="Me",  weight=0 ];
+	"your" -> "the" [  weight=0 ];
 
-	"Claim" [ label="Claim",  weight=0 ];
+	"your" -> "you" [  weight=0 ];
 
-	"Claim" -> "We" [  weight=0 ];
+	"your" -> "a" [  weight=0 ];
 
-	"Claim" -> "Gets" [  weight=0 ];
+	"your" -> "on" [  weight=0 ];
 
-	"Claim" -> "Asylum" [  weight=0 ];
+	"your" -> "your" [  weight=0 ];
 
-	"Claim" -> "Father" [  weight=0 ];
+	"your" -> "this" [  weight=0 ];
 
-	"Claim" -> "About" [  weight=0 ];
+	"your" -> "for" [  weight=0 ];
 
-	"Claim" -> "A" [  weight=0 ];
+	"your" -> "are" [  weight=0 ];
 
-	"Claim" -> "Obama" [  weight=0 ];
+	"your" -> "to" [  weight=0 ];
 
-	"Claim" -> "Their" [  weight=0 ];
+	"the" [ label="the",  weight=0 ];
 
-	"Claim" -> "Jeremy" [  weight=0 ];
+	"the" -> "in" [  weight=0 ];
 
-	"Crosshairs" [ label="Crosshairs",  weight=0 ];
+	"the" -> "a" [  weight=0 ];
 
-	"2017" [ label="2017",  weight=0 ];
+	"the" -> "of" [  weight=0 ];
 
-	"Jury" [ label="Jury",  weight=0 ];
+	"the" -> "your" [  weight=0 ];
 
-	"K-Dramas" [ label="K-Dramas",  weight=0 ];
+	"the" -> "that" [  weight=0 ];
 
-	"100K" [ label="100K",  weight=0 ];
+	"the" -> "the" [  weight=0 ];
 
-	"Wanted" [ label="Wanted",  weight=0 ];
+	"the" -> "and" [  weight=0 ];
 
-	"Wanted" -> "From" [  weight=0 ];
+	"the" -> "you" [  weight=0 ];
 
-	"Wanted" -> "Volunteers" [  weight=0 ];
+	"the" -> "this" [  weight=0 ];
 
-	"Wanted" -> "Featuring" [  weight=0 ];
+	"the" -> "to" [  weight=0 ];
 
-	"Wanted" -> "Poster" [  weight=0 ];
+	"the" -> "on" [  weight=0 ];
 
-	"Wanted" -> "A" [  weight=0 ];
+	"the" -> "is" [  weight=0 ];
 
-	"Wanted" -> "Over" [  weight=0 ];
+	"on" [ label="on",  weight=0 ];
 
-	"Wanted" -> "Police" [  weight=0 ];
+	"on" -> "your" [  weight=0 ];
 
-	"Wanted" -> "Tough-On-Crime" [  weight=0 ];
+	"on" -> "a" [  weight=0 ];
 
-	"Wanted" -> "Something" [  weight=0 ];
+	"on" -> "is" [  weight=0 ];
 
-	"Broke" [ label="Broke",  weight=0 ];
+	"on" -> "in" [  weight=0 ];
 
-	"Facebook" [ label="Facebook",  weight=0 ];
+	"on" -> "are" [  weight=0 ];
 
-	"About" [ label="About",  weight=0 ];
+	"on" -> "this" [  weight=0 ];
 
-	"After" [ label="After",  weight=0 ];
+	"on" -> "to" [  weight=0 ];
 
-	"After" -> "Raping" [  weight=0 ];
+	"on" -> "the" [  weight=0 ];
 
-	"After" -> "Bollywood" [  weight=0 ];
+	"on" -> "for" [  weight=0 ];
 
-	"After" -> "State" [  weight=0 ];
+	"on" -> "you" [  weight=0 ];
 
-	"After" -> "Suge" [  weight=0 ];
+	"on" -> "that" [  weight=0 ];
 
-	"After" -> "Spraining" [  weight=0 ];
+	"on" -> "and" [  weight=0 ];
 
-	"After" -> "Louisville" [  weight=0 ];
+	"on" -> "on" [  weight=0 ];
 
-	"After" -> "Recent" [  weight=0 ];
+	"you" [ label="you",  weight=0 ];
 
-	"After" -> "Driving" [  weight=0 ];
+	"you" -> "are" [  weight=0 ];
 
-	"After" -> "VFX" [  weight=0 ];
+	"you" -> "on" [  weight=0 ];
 
-	"Ended" [ label="Ended",  weight=0 ];
+	"you" -> "to" [  weight=0 ];
 
-	"More" [ label="More",  weight=0 ];
+	"you" -> "your" [  weight=0 ];
 
-	"Their" [ label="Their",  weight=0 ];
+	"you" -> "you" [  weight=0 ];
 
-	"Survived" [ label="Survived",  weight=0 ];
+	"you" -> "in" [  weight=0 ];
 
-	"Antifreeze" [ label="Antifreeze",  weight=0 ];
+	"you" -> "for" [  weight=0 ];
 
-	"Last" [ label="Last",  weight=0 ];
+	"you" -> "and" [  weight=0 ];
 
-	"Pugs" [ label="Pugs",  weight=0 ];
+	"you" -> "the" [  weight=0 ];
 
-	"Hate" [ label="Hate",  weight=0 ];
+	"you" -> "is" [  weight=0 ];
 
-	"Suffragists" [ label="Suffragists",  weight=0 ];
+	"you" -> "of" [  weight=0 ];
 
-	"New" [ label="New",  weight=0 ];
+	"you" -> "this" [  weight=0 ];
 
-	"New" -> "Kraft" [  weight=0 ];
+	"you" -> "a" [  weight=0 ];
 
-	"New" -> "Words" [  weight=0 ];
+	"you" -> "de" [  weight=0 ];
 
-	"New" -> "Lesbian" [  weight=0 ];
+	"you" -> "that" [  weight=0 ];
 
-	"New" -> "Ugly" [  weight=0 ];
+	"in" [ label="in",  weight=0 ];
 
-	"New" -> "SAT" [  weight=0 ];
+	"in" -> "a" [  weight=0 ];
 
-	"New" -> "Fast" [  weight=0 ];
+	"in" -> "the" [  weight=0 ];
 
-	"New" -> "Size-Inclusive" [  weight=0 ];
+	"in" -> "this" [  weight=0 ];
 
-	"New" -> "Trucks" [  weight=0 ];
+	"in" -> "for" [  weight=0 ];
 
-	"New" -> "Emoji" [  weight=0 ];
+	"in" -> "you" [  weight=0 ];
 
-	"Jones" [ label="Jones",  weight=0 ];
+	"in" -> "your" [  weight=0 ];
 
-	"Orphan" [ label="Orphan",  weight=0 ];
+	"in" -> "to" [  weight=0 ];
 
-	"Defenses" [ label="Defenses",  weight=0 ];
+	"in" -> "and" [  weight=0 ];
 
-	"Defenses" -> "At" [  weight=0 ];
+	"in" -> "is" [  weight=0 ];
 
-	"Defenses" -> "After" [  weight=0 ];
+	"in" -> "in" [  weight=0 ];
 
-	"We" [ label="We",  weight=0 ];
+	"in" -> "are" [  weight=0 ];
 
-	"A" [ label="A",  weight=0 ];
+	"in" -> "on" [  weight=0 ];
 
-	"Yentob" [ label="Yentob",  weight=0 ];
+	"in" -> "that" [  weight=0 ];
 
-	"Kurdis" [ label="Kurdis",  weight=0 ];
+	"and" [ label="and",  weight=0 ];
 
-	"Vandals" [ label="Vandals",  weight=0 ];
+	"and" -> "a" [  weight=0 ];
 
-	"Vandals" -> "Claim" [  weight=0 ];
+	"and" -> "and" [  weight=0 ];
 
-	"Vandals" -> "Spray" [  weight=0 ];
+	"and" -> "this" [  weight=0 ];
 
-	"Vandals" -> "Who" [  weight=0 ];
+	"and" -> "is" [  weight=0 ];
 
-	"Vandals" -> "Have" [  weight=0 ];
+	"and" -> "to" [  weight=0 ];
 
-	"Vandals" -> "Targeted" [  weight=0 ];
+	"and" -> "for" [  weight=0 ];
 
-	"Arent" [ label="Arent",  weight=0 ];
+	"and" -> "in" [  weight=0 ];
 
-	"Guide" [ label="Guide",  weight=0 ];
+	"and" -> "that" [  weight=0 ];
 
-	"Thrown" [ label="Thrown",  weight=0 ];
+	"and" -> "on" [  weight=0 ];
 
-	"Over" [ label="Over",  weight=0 ];
+	"and" -> "of" [  weight=0 ];
 
-	"Over" -> "State" [  weight=0 ];
+	"and" -> "are" [  weight=0 ];
 
-	"Over" -> "Christian" [  weight=0 ];
+	"and" -> "your" [  weight=0 ];
 
-	"Over" -> "Next" [  weight=0 ];
+	"and" -> "the" [  weight=0 ];
 
-	"Over" -> "Jury" [  weight=0 ];
+	"and" -> "you" [  weight=0 ];
 
-	"Over" -> "100K" [  weight=0 ];
+	"to" [ label="to",  weight=0 ];
 
-	"Over" -> "$110000" [  weight=0 ];
+	"to" -> "for" [  weight=0 ];
 
-	"Over" -> "Alan" [  weight=0 ];
+	"to" -> "that" [  weight=0 ];
 
-	"Over" -> "Bagels" [  weight=0 ];
+	"to" -> "your" [  weight=0 ];
 
-	"Over" -> "To" [  weight=0 ];
+	"to" -> "in" [  weight=0 ];
 
-	"%" [ label="%",  weight=0 ];
+	"to" -> "is" [  weight=0 ];
 
-	"Stopping" [ label="Stopping",  weight=0 ];
+	"to" -> "are" [  weight=0 ];
 
-	"Taylor" [ label="Taylor",  weight=0 ];
+	"to" -> "to" [  weight=0 ];
 
-	"Worked" [ label="Worked",  weight=0 ];
+	"to" -> "on" [  weight=0 ];
 
-	"Heart" [ label="Heart",  weight=0 ];
+	"to" -> "a" [  weight=0 ];
 
-	"For" [ label="For",  weight=0 ];
+	"to" -> "the" [  weight=0 ];
 
-	"Jeremy" [ label="Jeremy",  weight=0 ];
+	"to" -> "you" [  weight=0 ];
 
-	"Trial" [ label="Trial",  weight=0 ];
+	"to" -> "this" [  weight=0 ];
 
-	"Ad" [ label="Ad",  weight=0 ];
+	"to" -> "and" [  weight=0 ];
 
-	"Quit" [ label="Quit",  weight=0 ];
+	"that" [ label="that",  weight=0 ];
 
-	"Spray" [ label="Spray",  weight=0 ];
+	"that" -> "for" [  weight=0 ];
 
-	"Spray" -> "Needs" [  weight=0 ];
+	"that" -> "on" [  weight=0 ];
 
-	"Spray" -> "With" [  weight=0 ];
+	"that" -> "is" [  weight=0 ];
 
-	"Spray" -> "Face" [  weight=0 ];
+	"that" -> "in" [  weight=0 ];
 
-	"Spray" -> "Instead" [  weight=0 ];
+	"that" -> "this" [  weight=0 ];
 
-	"Spray" -> "As" [  weight=0 ];
+	"that" -> "to" [  weight=0 ];
 
-	"Spray" -> "And" [  weight=0 ];
+	"that" -> "and" [  weight=0 ];
 
-	"Spray" -> "Against" [  weight=0 ];
+	"that" -> "are" [  weight=0 ];
 
-	"Spray" -> "At" [  weight=0 ];
+	"that" -> "that" [  weight=0 ];
 
-	"Spray" -> "From" [  weight=0 ];
+	"that" -> "of" [  weight=0 ];
 
-	"Until" [ label="Until",  weight=0 ];
+	"that" -> "a" [  weight=0 ];
 
-	"Until" -> "January" [  weight=0 ];
+	"that" -> "the" [  weight=0 ];
 
-	"Until" -> "2018" [  weight=0 ];
+	"that" -> "your" [  weight=0 ];
 
-	"Until" -> "2024" [  weight=0 ];
-
-	"Until" -> "Last" [  weight=0 ];
-
-	"Until" -> "2017" [  weight=0 ];
-
-	"Until" -> "Trial" [  weight=0 ];
-
-	"Until" -> "COVID-19" [  weight=0 ];
-
-	"Until" -> "2021" [  weight=0 ];
-
-	"Until" -> "You’ve" [  weight=0 ];
-
-	"COVID-19" [ label="COVID-19",  weight=0 ];
-
-	"Words" [ label="Words",  weight=0 ];
-
-	"State" [ label="State",  weight=0 ];
-
-	"Republican" [ label="Republican",  weight=0 ];
-
-	"Stewart" [ label="Stewart",  weight=0 ];
-
-	"Her" [ label="Her",  weight=0 ];
-
-	"Tough-On-Crime" [ label="Tough-On-Crime",  weight=0 ];
-
-	"Jews" [ label="Jews",  weight=0 ];
-
-	"Command" [ label="Command",  weight=0 ];
-
-	"Conflicting" [ label="Conflicting",  weight=0 ];
-
-	"Rekers" [ label="Rekers",  weight=0 ];
-
-	"Poster" [ label="Poster",  weight=0 ];
-
-	"Actors" [ label="Actors",  weight=0 ];
-
-	"$110000" [ label="$110000",  weight=0 ];
-
-	"Photoshop" [ label="Photoshop",  weight=0 ];
-
-	"en" [ label="en",  weight=0 ];
-
-	"Theyll" [ label="Theyll",  weight=0 ];
-
-	"Benefits" [ label="Benefits",  weight=0 ];
-
-	"Christian" [ label="Christian",  weight=0 ];
-
-	"This" [ label="This",  weight=0 ];
-
-	"Erica" [ label="Erica",  weight=0 ];
-
-	"Debuted" [ label="Debuted",  weight=0 ];
-
-	"Ugly" [ label="Ugly",  weight=0 ];
-
-	"Ugly" -> "Heart" [  weight=0 ];
-
-	"Ugly" -> "People" [  weight=0 ];
-
-	"Ugly" -> "Among" [  weight=0 ];
-
-	"Ugly" -> "Friends" [  weight=0 ];
-
-	"Ugly" -> "Bits" [  weight=0 ];
-
-	"Ugly" -> "Food" [  weight=0 ];
-
-	"Ugly" -> "And" [  weight=0 ];
-
-	"Ugly" -> "Xmas" [  weight=0 ];
-
-	"Ugly" -> "This" [  weight=0 ];
-
-	"January" [ label="January",  weight=0 ];
-
-	"Bermuda" [ label="Bermuda",  weight=0 ];
-
-	"Gymnast" [ label="Gymnast",  weight=0 ];
-
-	"Navigate" [ label="Navigate",  weight=0 ];
-
-	"Alan" [ label="Alan",  weight=0 ];
-
-	"Alan" -> "Tudyks" [  weight=0 ];
-
-	"Alan" -> "Yentob" [  weight=0 ];
-
-	"Alan" -> "Kurdis" [  weight=0 ];
-
-	"Alan" -> "Rekers" [  weight=0 ];
-
-	"Alan" -> "Kims" [  weight=0 ];
-
-	"Alan" -> "Jones" [  weight=0 ];
-
-	"Alan" -> "Grayson" [  weight=0 ];
-
-	"Alan" -> "Menken" [  weight=0 ];
-
-	"Alan" -> "Cumming" [  weight=0 ];
-
-	"Respond" [ label="Respond",  weight=0 ];
-
-	"WhatsApp" [ label="WhatsApp",  weight=0 ];
-
-	"Police" [ label="Police",  weight=0 ];
-
-	"Prefaced" [ label="Prefaced",  weight=0 ];
-
-	"Cyber" [ label="Cyber",  weight=0 ];
-
-	"Cyber" -> "Stalker" [  weight=0 ];
-
-	"Cyber" -> "Conferences" [  weight=0 ];
-
-	"Cyber" -> "Command" [  weight=0 ];
-
-	"Cyber" -> "Vandals" [  weight=0 ];
-
-	"Cyber" -> "Savings" [  weight=0 ];
-
-	"Cyber" -> "Week" [  weight=0 ];
-
-	"Cyber" -> "Guide" [  weight=0 ];
-
-	"Cyber" -> "Attacks" [  weight=0 ];
-
-	"Cyber" -> "Defenses" [  weight=0 ];
-
-	"Realize" [ label="Realize",  weight=0 ];
-
-	"Recent" [ label="Recent",  weight=0 ];
-
-	"Misspell" [ label="Misspell",  weight=0 ];
-
-	"Developed" [ label="Developed",  weight=0 ];
-
-	"Against" [ label="Against",  weight=0 ];
-
-	"Trucks" [ label="Trucks",  weight=0 ];
-
-	"Kraft" [ label="Kraft",  weight=0 ];
-
-	"You’ve" [ label="You’ve",  weight=0 ];
-
-	"Gets" [ label="Gets",  weight=0 ];
-
-	"Targeted" [ label="Targeted",  weight=0 ];
-
-	"Targeted" -> "For" [  weight=0 ];
-
-	"Targeted" -> "In" [  weight=0 ];
-
-	"Targeted" -> "Crowds" [  weight=0 ];
-
-	"Targeted" -> "Attack" [  weight=0 ];
-
-	"Targeted" -> "Her" [  weight=0 ];
-
-	"Targeted" -> "Facebook" [  weight=0 ];
-
-	"Targeted" -> "Republican" [  weight=0 ];
-
-	"Targeted" -> "Him" [  weight=0 ];
-
-	"Targeted" -> "Jews" [  weight=0 ];
-
-	"Serial" [ label="Serial",  weight=0 ];
-
-	"Albums" [ label="Albums",  weight=0 ];
-
-	"Conferences" [ label="Conferences",  weight=0 ];
-
-	"Conferences" -> "Theyll" [  weight=0 ];
-
-	"Conferences" -> "Curb" [  weight=0 ];
-
-	"Conferences" -> "At" [  weight=0 ];
-
-	"Conferences" -> "Theyve" [  weight=0 ];
-
-	"Conferences" -> "Until" [  weight=0 ];
-
-	"Conferences" -> "With" [  weight=0 ];
-
-	"Conferences" -> "After" [  weight=0 ];
-
-	"Louisville" [ label="Louisville",  weight=0 ];
-
-	"Punched" [ label="Punched",  weight=0 ];
-
-	"Kims" [ label="Kims",  weight=0 ];
-
-	"Stalker" [ label="Stalker",  weight=0 ];
-
-	"Menken" [ label="Menken",  weight=0 ];
-
-	"Flag-Burning" [ label="Flag-Burning",  weight=0 ];
-
-	"Relationship" [ label="Relationship",  weight=0 ];
-
-	"Raping" [ label="Raping",  weight=0 ];
-
-	"2018" [ label="2018",  weight=0 ];
-
-	"To" [ label="To",  weight=0 ];
-
-	"Face" [ label="Face",  weight=0 ];
-
-	"Who" [ label="Who",  weight=0 ];
-
-	"Who" -> "Quit" [  weight=0 ];
-
-	"Who" -> "Collected" [  weight=0 ];
-
-	"Who" -> "Photoshop" [  weight=0 ];
-
-	"Who" -> "Broke" [  weight=0 ];
-
-	"Who" -> "Survived" [  weight=0 ];
-
-	"Who" -> "Benefits" [  weight=0 ];
-
-	"Who" -> "Punched" [  weight=0 ];
-
-	"Who" -> "Somehow" [  weight=0 ];
-
-	"Who" -> "Arent" [  weight=0 ];
-
-	"Volunteers" [ label="Volunteers",  weight=0 ];
-
-	"Savings" [ label="Savings",  weight=0 ];
-
-	"VFX" [ label="VFX",  weight=0 ];
-
-	"People" [ label="People",  weight=0 ];
-
-	"People" -> "At" [  weight=0 ];
-
-	"People" -> "Realize" [  weight=0 ];
-
-	"People" -> "Cyber" [  weight=0 ];
-
-	"People" -> "Ad" [  weight=0 ];
-
-	"People" -> "Confirms" [  weight=0 ];
-
-	"People" -> "Sexually" [  weight=0 ];
-
-	"People" -> "Handled" [  weight=0 ];
-
-	"People" -> "Navigate" [  weight=0 ];
-
-	"People" -> "Left" [  weight=0 ];
-
-	"Father" [ label="Father",  weight=0 ];
-
-	"24" [ label="24",  weight=0 ];
-
-	"Xmas" [ label="Xmas",  weight=0 ];
-
-	"Badass" [ label="Badass",  weight=0 ];
-
-	"Badass" -> "Song" [  weight=0 ];
-
-	"Badass" -> "Suffragists" [  weight=0 ];
-
-	"Badass" -> "Gymnast" [  weight=0 ];
-
-	"Badass" -> "Bride" [  weight=0 ];
-
-	"Badass" -> "Erica" [  weight=0 ];
-
-	"Badass" -> "Cat" [  weight=0 ];
-
-	"Badass" -> "They" [  weight=0 ];
-
-	"Badass" -> "Turns" [  weight=0 ];
-
-	"Badass" -> "Pugs" [  weight=0 ];
-
-	"Awful" [ label="Awful",  weight=0 ];
-
-	"Him" [ label="Him",  weight=0 ];
-
-	"As" [ label="As",  weight=0 ];
-
-	"Handled" [ label="Handled",  weight=0 ];
-
-	"With" [ label="With",  weight=0 ];
-
-	"With" -> "Arrest" [  weight=0 ];
-
-	"With" -> "Antifreeze" [  weight=0 ];
-
-	"With" -> "Crosshairs" [  weight=0 ];
-
-	"With" -> "Gas" [  weight=0 ];
-
-	"With" -> "Flag-Burning" [  weight=0 ];
-
-	"With" -> "24" [  weight=0 ];
-
-	"With" -> "Stewart" [  weight=0 ];
-
-	"With" -> "Actors" [  weight=0 ];
-
-	"With" -> "Orphan" [  weight=0 ];
-
-	"Spraining" [ label="Spraining",  weight=0 ];
-
-	"Spilt" [ label="Spilt",  weight=0 ];
+	"that" -> "you" [  weight=0 ];
 
 }
