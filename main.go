@@ -1,6 +1,7 @@
 package main
 
 import (
+	"net/http"
 	"os"
 	"strings"
 
@@ -40,8 +41,9 @@ func drawNode(x graph.Graph[string, string], node *Node, drawn *[]string, limit 
 	return y
 }
 
+var thes = Thesaurus{pntrmap: make(map[string]*Node)}
+
 func main() {
-	thes := Thesaurus{pntrmap: make(map[string]*Node)}
 
 	records := readCsvFile("./csv_file2.csv")
 	for _, record := range records {
@@ -64,6 +66,7 @@ func main() {
 		}
 		//fmt.Println(node.weight)
 	}
+
 	g := graph.New(graph.StringHash, graph.Directed())
 	drawn := []string{}
 	//ctr := 0
@@ -79,4 +82,6 @@ func main() {
 	g = drawNode(g, thes.pntrmap["the"], &drawn, 4, 0.3)
 	file, _ := os.Create("my-graph.gv")
 	_ = draw.DOT(g, file)
+
+	http.ListenAndServe("127.0.0.1:8080", http.HandlerFunc(Serve))
 }
